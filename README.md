@@ -1,2 +1,2 @@
 # Nuts
- A Not Useful Terminal Shell
+A Not Useful Terminal Shell
